@@ -1,12 +1,12 @@
-- counter: 20000
-  icon: ion-ios-chatboxes-outline
-  text: Cups of Coffee
-- counter: 1500
-  icon: ion-ios-glasses-outline
-  text: Gallons of Soft Drink
-- counter: 1200
-  icon: ion-ios-compose-outline
-  text: Whiteboard Markers
-- counter: 300
+- counter: 72
   icon: ion-ios-timer-outline
-  text: Websites built
+  text: Years of activism to achieve ratification
+- counter: 19
+  icon: ion-ios-document-outline
+  text: The amendment that granted women the right to vote
+- counter: 12
+  icon: ion-ios-calendar-outline
+  text: Ohio ratified the 19th amendment on June 16, 1919, 12 days after Congress proposed it
+- counter: 51
+  icon: ion-ios-rocket-outline
+  text: Percent of the US population enfranchsed on August 18, 2020
