@@ -2,11 +2,11 @@
   icon: ion-ios-timer-outline
   text: Years of activism to achieve ratification
 - counter: 19
-  icon: ion-ios-document-outline
+  icon: ion-ios-document
   text: The amendment that granted women the right to vote
 - counter: 12
   icon: ion-ios-calendar-outline
-  text: Ohio ratified the 19th amendment on June 16, 1919, 12 days after Congress proposed it
+  text: Number of days it took Ohio to ratify the 19th amendment after Congress proposed it
 - counter: 51
-  icon: ion-ios-rocket-outline
+  icon: ion-ios-rocket
   text: Percent of the US population enfranchsed on August 18, 2020
