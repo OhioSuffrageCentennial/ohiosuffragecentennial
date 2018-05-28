@@ -2,11 +2,11 @@
   icon: ion-ios-timer-outline
   text: Years of activism to achieve ratification
 - counter: 19
-  icon: ion-ios-document
+  icon: ion-ios-document-outline
   text: The amendment that granted women the right to vote
 - counter: 12
   icon: ion-ios-calendar-outline
   text: Number of days it took Ohio to ratify the 19th amendment after Congress proposed it
 - counter: 51
-  icon: ion-ios-rocket
+  icon: ion-ios-rocket-outline
   text: Percent of the US population enfranchsed on August 18, 2020

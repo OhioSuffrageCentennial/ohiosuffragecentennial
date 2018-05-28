@@ -15,7 +15,7 @@ keep_files:
 
 # Site settings
 title: Ohio Suffrage Centennial
-subtitle: "An information clearinhouse for Ohio events, sites, and connections to the 2020 women's suffrage centennial."
+subtitle: "An information clearinghouse for Ohio events, sites, and connections to the 2020 women's suffrage centennial."
 url: "http://hillaryfraley.github.io/ohiosuffragecentennial" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/ohiosuffragecentennial"
