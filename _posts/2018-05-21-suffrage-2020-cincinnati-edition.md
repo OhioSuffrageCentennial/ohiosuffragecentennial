@@ -2,7 +2,7 @@
 layout: post
 title: Ohio suffrage centennial discussion on Cincinnati Edition
 date: 2018-05-21 21:11:27
-author: 
+author: Ohio Suffrage Centennial
 ---
 
 WVXU's Cincinnati Edition did an episode about 100 years of women's right to vote and preparations for area events to celebrate the centennial! Check it out: [Preparations Under Way To Celebrate The Centennial Of Women's Suffrage](http://wvxu.org/post/preparations-under-way-celebrate-centennial-womens-suffrage).
