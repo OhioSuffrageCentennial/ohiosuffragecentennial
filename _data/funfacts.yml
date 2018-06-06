@@ -1,12 +1,12 @@
 - counter: 72
   icon: ion-ios-timer-outline
-  text: Years of activism to achieve ratification
-- counter: 6
-  icon: ion-ios-compose-outline
-  text: Ohio's place in the order of states to ratify 19A
+  text: Years of activism to achieve equal suffrage
 - counter: 12
   icon: ion-ios-calendar-outline
   text: Number of days for Ohio to ratify 19A
+- counter: 6
+  icon: ion-ios-compose-outline
+  text: Ohio's place in the order of states to ratify 19A
 - counter: 51
   icon: ion-ios-star-outline
   text: Percent of US population enfranchised on August 18, 1920
