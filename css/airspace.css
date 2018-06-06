@@ -518,6 +518,14 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: .3s all;
   text-align: center;
 }
+#portfolio-work .block .portfolio-contant .overlay .planlink {
+  font-size: 11px;
+  font-weight: bold;
+  text-decoration: underline;
+  line-height: 20px;
+  padding-top: 15px;
+} 
+
 #portfolio-work .block .portfolio-contant .position-center {
   position: absolute;
   top: 50%;
