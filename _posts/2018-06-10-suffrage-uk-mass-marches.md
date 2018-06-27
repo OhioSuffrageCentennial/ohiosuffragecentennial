@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Early inspiration: Women march to celebrate UK suffrage centennial
+title: Early inspiration - Women march to celebrate UK suffrage centennial
 date: 2018-06-10 21:11:27
 author: Ohio Suffrage Centennial
 ---
