@@ -1,16 +1,16 @@
-- name: Harriet Taylor Upton
-  title: Ohio Suffragist
-  testimonial: "Quotation from Harriet Taylor Upton."
+- name: Sojourner Truth
+  title: Akron, May 29, 1851
+  testimonial: "Ain't I a woman?"
+  image: img/sojourner-truth-LOC-2017648645.jpg
+- name: Susan B. Anthony
+  title: Cincinnati, 1880
+  testimonial: "It is policy to you...it is justice to us."
+  image: img/sojourner-truth-LOC-2017648645-2.jpg
+- name: Ernestine Rose
+  title: Cleveland, 1853
+  testimonial: "[Can] what is wrong in one sex...be right in the other?"
   image: img/item-img1.jpg
-- name: Frances E. Willard
-  title: Ohio Suffragist
-  testimonial: "Quotation from Frances E. Willard."
-  image: img/item-img1.jpg
-- name: Clara Snell Wolfe
-  title: Ohio Suffragist
-  testimonial: "Quotation from Clara Snell Wolfe."
-  image: img/item-img1.jpg
-- name: Lydia (Mother) Sexton
-  title: Ohio Suffragist
-  testimonial: "Quotation from Lydia Sexton."
+- name: Frances Willard
+  title: Hillsboro, 1873
+  testimonial: "Saloons must go!"
   image: img/item-img1.jpg
