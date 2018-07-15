@@ -2,11 +2,11 @@
   icon: ion-ios-timer-outline
   text: Years of activism to ratify 19A
 - counter: 12
-  icon: ion-ios-calendar-outline
+  icon: ion-ios-star-outline
   text: Number of days for Ohio to ratify 19A
 - counter: 6
   icon: ion-ios-compose-outline
   text: Ohio's place in the ratification order
 - counter: 1984
-  icon: ion-ios-star-outline
+  icon: ion-ios-calendar-outline
   text: Year the last state ratified (Missisippi)
