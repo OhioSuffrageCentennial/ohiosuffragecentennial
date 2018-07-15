@@ -6,7 +6,7 @@
   text: Number of days for Ohio to ratify 19A
 - counter: 6
   icon: ion-ios-compose-outline
-  text: Ohio's place in the order of states to ratify 19A
-- counter: 51
+  text: Ohio's place in the ratification order
+- counter: 1984
   icon: ion-ios-star-outline
-  text: Percent of US population enfranchised on August 18, 1920
+  text: Year the last state ratified (Missisippi)
