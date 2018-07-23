@@ -20,7 +20,7 @@ url: "http://hillaryfraley.github.io/ohiosuffragecentennial" # the base hostname
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/ohiosuffragecentennial"
 cover: "/assets/cover.png"
-logo: "/assets/logo1.jpg"
+logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
