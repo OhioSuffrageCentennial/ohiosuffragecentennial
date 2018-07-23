@@ -231,9 +231,6 @@ font header .navbar-default .navbar-nav li a:hover {
   new-feature Start
 --*/
 #new-feature {
-  /*--
-  background: url("../img/call-to-action-bg.jpg") no-repeat;
-  --*/
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;
