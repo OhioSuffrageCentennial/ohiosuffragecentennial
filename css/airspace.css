@@ -248,7 +248,7 @@ font header .navbar-default .navbar-nav li a:hover {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background: #1d192c;
+  background: #e0e0e0;
   opacity: 0.8;
 }
 #new-feature h2 {
@@ -264,7 +264,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #new-feature .btn-new-feature {
   padding: 15px 35px;
   border: none;
-  background-color: #e0e0e0;
+  background-color: #655E7A;
   font-size: 15px;
   color: #fff;
   margin-top: 30px;
