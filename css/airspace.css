@@ -228,6 +228,12 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-top: 30px;
 }
 /*--
+  pic-feature Start
+--*/
+#pic-feature {
+  text-align: center;
+}
+/*--
   new-feature Start
 --*/
 #new-feature {
