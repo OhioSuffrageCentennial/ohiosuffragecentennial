@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Now available! Katherine Durack's no-sew suffrage sash
+title: Now available! No-sew suffrage sash
 date: 2018-08-13 17:45:00
 author: Ohio Suffrage Centennial
 ---
