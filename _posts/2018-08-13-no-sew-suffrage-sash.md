@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Now available! No-sew suffrage sash
+title: Now available! Make your own no-sew suffrage sash
 date: 2018-08-13 17:45:00
 author: Ohio Suffrage Centennial
 ---
