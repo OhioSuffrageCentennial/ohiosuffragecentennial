@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tammy L. Brown: Celebrate Women’s Suffrage, but Don't Whitewash the Movement's Racism
-date: 2018-08-24 06:15:27
+title: Tammy L. Brown---Celebrate Women’s Suffrage, but Don't Whitewash the Movement's Racism
+date: 2018-08-24 16:15:27
 author: Ohio Suffrage Centennial
 ---
 
