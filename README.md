@@ -1,17 +1,24 @@
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+# Ohio Suffrage Centennial
 
-This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
+This project is a [GitHub Pages](https://pages.github.com/)-hosted [Jekyll](https://jekyllrb.com/) website intended to help people plan, find, and spread the word about events related to Ohio's connections to the 19th amendment and women's right to vote.
 
-## Usage
-To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
+Our purpose is to inspire people to learn about and celebrate the 100th anniversary of US women's right to vote throughout the 2019-2020 centennial year and beyond.
 
-## Examples
-Here are some projects that have used this Jekyll Theme:
-* [BOYUAN Open Source 博辕开源](https://boyuanitsm.github.io)
-* [Campus VC](https://mrchildneo.github.io/mrchildneo/)
-* [Mãos de amar](https://www.maosdeamar.com.br/)
-* [ATK Team](http://www.atksec.com/)
-* [Coding Club](https://ourcodingclub.github.io/)
-* [Dev Empathy Book Club](http://www.devempathybook.club/)
-* [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
+The project repo is [https://github.com/OhioSuffrageCentennial/ohiosuffragecentennial](https://github.com/OhioSuffrageCentennial/ohiosuffragecentennial).
+
+## Website structure
+
+The website includes five pages:
+* [Home](https://www.ohiosuffragecentennial.com/): The site's homepage; in HTML
+* [Plan Something](https://www.ohiosuffragecentennial.com/plan/): A list of websites to help people find locations, events, and information related to the 19th amendment and women's right to vote; in HTML
+* [Learn Something](https://www.ohiosuffragecentennial.com/connections/): Highlights of Ohio's significance to woman suffrage history; in HTML
+* [News](https://www.ohiosuffragecentennial.com/news/): A collection of posts about 19th amendment-related events; in Markdown (except links, which are HTML).
+* [Contact](https://github.com/OhioSuffrageCentennial/ohiosuffragecentennial/blob/gh-pages/contact.html): Contact information for the website; in HTML
+
+## Contribute to the Ohio Suffrage Centennial website
+
+Before you submit a pull request to this repo, read our [CONTRIBUTING.md](https://github.com/OhioSuffrageCentennial/ohiosuffragecentennial/blob/gh-pages/CONTRIBUTING.md) for information about pull request requirements, website scope, and content structure.
+
+## Theme
+
+The website uses the [*Airspace* for Jekyll](https://github.com/luminousrubyist/airspace-jekyll) theme, which is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
