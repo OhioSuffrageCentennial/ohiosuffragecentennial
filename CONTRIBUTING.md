@@ -2,7 +2,7 @@
 
 Thank you for contributing to the [Ohio Suffrage Centennial](https://www.ohiosuffragecentennial.com/) website! We're glad you're here and appreciate your help.
 
-This document describes our goals with the website, a few special HTML and Markdown conventions, and how to submit your changes,.
+This document describes our goals with the website, a few special HTML and Markdown conventions, and how to submit your changes.
 
 ## Goals
 
