@@ -5,7 +5,7 @@ date: 2019-01-10 21:11:27
 author: Ohio Suffrage Centennial
 ---
 
-The <a href="https://www.mvaqn.com" target="_blank">Miami Valley Art Quilt Network (MVAQN)</a> developed an art quilt exhibit to celebrate the 100th anniversary of the passage of the 19th amendment: **Suffragists: And They Persisted!**
+The <a href="http://www.mvaqn.com" target="_blank">Miami Valley Art Quilt Network (MVAQN)</a> developed an art quilt exhibit to celebrate the 100th anniversary of the passage of the 19th amendment: **Suffragists: And They Persisted!**
 
 The first exhibit will be **March 1 to 31, 2019** at the <a href="https://www.wclibrary.info/" target="_blank">Woodbourne Library</a> in Centerville. The Woodbourne Library's address is 6060 Far Hills Avenue, Centerville, OH 45459. This exhibit will include 15 pieces commemorating the women who fought for the 19th amendment.
 
