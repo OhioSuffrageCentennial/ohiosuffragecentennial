@@ -11,5 +11,5 @@ The first exhibit will be **March 1 to 31, 2019** at the <a href="https://www.wc
 
 Exhibits are being scheduled throughout 2019 and 2020. Check the <a href="http://mvaqn.com/exhibitions/" target="_blank">MVAQN Current and Upcoming Exhibitions</a> page for more exhibit dates as they are scheduled.
 
-The quilts will be available to show from January 2019 through December 2020. If you are interested in hosting an exhibit or want more information, please contact Carroll Schleppi, Exhibition Chair, at 937-294-1137.
+The quilts will be available to show from January 2019 through December 2020. If you are interested in hosting an exhibit or want more information, please contact Molinda Lauxmiller, 19th Amendment Chair, at 937-681-0154.
 
