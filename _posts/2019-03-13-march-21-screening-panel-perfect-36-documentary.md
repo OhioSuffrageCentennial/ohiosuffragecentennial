@@ -1,6 +1,6 @@
 ---
 layout: post
-title: March 21 screening of Perfect 36 woman suffrage documentary in Cincinnati
+title: March 21 Screening of Perfect 36 Suffrage Documentary in Cincinnati
 date: 2019-03-13 21:11:27
 author: Ohio Suffrage Centennial
 ---
