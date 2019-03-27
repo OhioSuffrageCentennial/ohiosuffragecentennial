@@ -9,7 +9,7 @@ Exciting news! The first installment of the <a href="https://documents.alexander
 
 The OBD is edited and compiled by Thomas Dublin and represents the work of hundreds of volunteers who have researched, written, copyedited, and fact-checked the first 950 biographical sketches that appear in this first installment. *950!!*
 
-The publisher plans to add 500 more biographical sketches every 6 months until the project is completed in June 2021 with approximately *3,300 biographical sketches* available online.
+The publisher plans to add 500 more biographical sketches every 6 months until the project is completed in June 2021 with approximately 3,300 biographical sketches available online.
 
 The OBD will will include substantial numbers of black women suffragists, militant suffragists associated with the National Woman’s Party, and mainstream suffragists of the National American Woman Suffrage Association.
 
