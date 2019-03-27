@@ -13,5 +13,5 @@ The publisher plans to add 500 more biographical sketches every 6 months until t
 
 The OBD will will include substantial numbers of black women suffragists, militant suffragists associated with the National Woman’s Party, and mainstream suffragists of the National American Woman Suffrage Association.
 
-**The project still needs volunteers for a third of the sketches.** Contact <a href="tdublin@binghamton.edu" target="_blank">tdublin@binghamton.edu</a> if you are interested in volunteering. Volunteers are also needed for copyediting completed sketches and using genealogical skills to find birth, marriage, and death records for suffrage activists. This is a great chance to join a project commemorating the centennial of the ratification of the 19th Amendment.
+**The project still needs volunteers for a third of the sketches.** Contact tdublin@binghamton.edu if you are interested in volunteering. Volunteers are also needed for copyediting completed sketches and using genealogical skills to find birth, marriage, and death records for suffrage activists. This is a great chance to join a project commemorating the centennial of the ratification of the 19th Amendment.
 
