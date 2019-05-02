@@ -7,8 +7,8 @@ author: Ohio Suffrage Centennial
 
 This Sunday at 4:00 p.m., the <a href="http://stowehousecincy.org/index.html" target="_blank">Harriet Beecher Stowe House</a> is kicking off the first of its suffrage centennial programs and we'd love for you to join!
 
-Ohio's Role in Woman Suffrage: Three Reasons to Celebrate the 2020 Women's Vote Centennial
-Sunday, May 5, 2019 at 4:00 p.m.
+Ohio's Role in Woman Suffrage: Three Reasons to Celebrate the 2020 Women's Vote Centennial (Sunday, May 5, 2019 at 4:00 p.m.)
+
 **Tickets at the <a href="https://www.eventbrite.com/e/ohios-role-in-woman-suffrage-three-reasons-to-celebrate-the-2020-womens-vote-centennial-tickets-56671134890" target="_blank">Eventbrite page</a>.**
 
 In this talk, Katherine Durack will share information about the crucial yet forgotten role Ohio played in the fight for woman suffrage. 
