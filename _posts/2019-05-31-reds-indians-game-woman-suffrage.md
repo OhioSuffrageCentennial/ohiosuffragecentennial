@@ -9,4 +9,4 @@ On Saturday, July 6, join the Cincinnati Reds in celebrating the 100th anniversa
 
 Purchase tickets at <a href="https://groupmatics.events/event/OhioWomen" target="_blank">https://groupmatics.events/event/OhioWomen</a>.
 
-You can also print or share the **<a href="img/reds-indians-7-6-19-woman-suffrage.pdf" target="_blank">flyer</a>**.
+You can also print or share the **<a href="/img/reds-indians-7-6-19-woman-suffrage.pdf" target="_blank">flyer</a>**.
